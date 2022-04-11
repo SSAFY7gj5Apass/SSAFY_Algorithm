@@ -10,3 +10,9 @@ https://www.acmicpc.net/workbook/view/1983
 04/07 - 2644 촌수계산 https://www.acmicpc.net/problem/2644    
 04/08 - 7569 토마토 https://www.acmicpc.net/problem/7569    
 
+## 2주차
+04/11 - 1697 숨바꼭질 https://www.acmicpc.net/problem/1697
+04/12 - 5014 스타트링크 https://www.acmicpc.net/problem/5014
+04/13 - 2468 안전 영역 https://www.acmicpc.net/problem/2468
+04/14 - 2573 빙산 https://www.acmicpc.net/problem/2573
+04/15 - 9205 맥주 마시면서 걸어가기 https://www.acmicpc.net/problem/2573
