@@ -27,3 +27,10 @@ https://www.acmicpc.net/workbook/view/1152
 04/20 - 3190 뱀 https://www.acmicpc.net/problem/3190   
 04/21 - 13458 시험감독 https://www.acmicpc.net/problem/13458   
 04/22 - 14499 주사위 굴리기 https://www.acmicpc.net/problem/14499   
+
+## 4주차(백준 삼성 SW 역량 테스트 기출문제)
+04/26 - 14500 테트로미노 https://www.acmicpc.net/problem/14500
+04/27 - 14501 퇴사 https://www.acmicpc.net/problem/14501
+04/28 - 14503 로봇 청소기 https://www.acmicpc.net/problem/14503
+04/29 - 14888 연산자 끼워넣기 https://www.acmicpc.net/problem/14888
+04/30 - 14889 스타트와 링크 https://www.acmicpc.net/problem/14889
